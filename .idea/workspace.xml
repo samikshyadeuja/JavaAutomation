@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ffe9176-8ea3-41fb-bac0-c08e074432a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XjGA72teJoOf4W9Y6zXZIwI7hd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sulav pratik deuja\IdeaProjects\Automation_java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.No8">
+    <configuration name="No5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toolsqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Toolsqa" />
+      <option name="MAIN_CLASS_NAME" value="Toolsqa.No5" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No5.OpenchromeBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toolsqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Toolsqa" />
+      <option name="MAIN_CLASS_NAME" value="Toolsqa.No5" />
+      <option name="METHOD_NAME" value="OpenchromeBrowser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No6.OpenchromeBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toolsqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Toolsqa" />
+      <option name="MAIN_CLASS_NAME" value="Toolsqa.No6" />
+      <option name="METHOD_NAME" value="OpenchromeBrowser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toolsqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Toolsqa" />
+      <option name="MAIN_CLASS_NAME" value="Toolsqa.No8" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No8.OpenchromeBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Toolsqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Toolsqa" />
+      <option name="MAIN_CLASS_NAME" value="Toolsqa.No8" />
+      <option name="METHOD_NAME" value="OpenchromeBrowser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.No8" />
+        <item itemvalue="JUnit.No8.OpenchromeBrowser" />
+        <item itemvalue="JUnit.No6.OpenchromeBrowser" />
+        <item itemvalue="JUnit.No5" />
+        <item itemvalue="JUnit.No5.OpenchromeBrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ffe9176-8ea3-41fb-bac0-c08e074432a3" name="Default Changelist" comment="" />
+      <created>1581551943649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581551943649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582229484049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582229484049" />
+    <state x="418" y="243" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581636575675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="418" y="243" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1581636575675" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1582238719953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582238719953" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1582238719953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582238719953" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1582238719953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582238719953" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1582238719953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582238719953" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1582243341570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582243341570" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1582227365352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227365352" />
+    <state x="390" y="0" width="586" height="728" key="find.popup" timestamp="1581986318691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="586" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581986318691" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582229901558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582229901542" />
+  </component>
+</project>
